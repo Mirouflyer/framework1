@@ -2,27 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e580019a-33d2-4c47-b899-1c6591cab290" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LetsKodeIt/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/LetsKodeIt/Extent-Report/ExtentReport.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LetsKodeIt/src/main/java/selectionMenu/RadioButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/LetsKodeIt/src/main/java/selectionMenu/RadioButton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LetsKodeIt/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/LetsKodeIt/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LetsKodeIt/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LetsKodeIt/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LetsKodeIt/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LetsKodeIt/target/surefire-reports/TestSuite.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LetsKodeIt/target/surefire-reports/Walmart Automation Script /LetsKodeIt.html" beforeDir="false" afterPath="$PROJECT_DIR$/LetsKodeIt/target/surefire-reports/Walmart Automation Script /LetsKodeIt.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LetsKodeIt/target/surefire-reports/Walmart Automation Script /LetsKodeIt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LetsKodeIt/target/surefire-reports/Walmart Automation Script /LetsKodeIt.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LetsKodeIt/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/LetsKodeIt/target/surefire-reports/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LetsKodeIt/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/LetsKodeIt/target/surefire-reports/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LetsKodeIt/target/surefire-reports/junitreports/TEST-pageHomeTitleTest.PageTitleTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LetsKodeIt/target/surefire-reports/junitreports/TEST-pageHomeTitleTest.PageTitleTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LetsKodeIt/target/surefire-reports/old/Walmart Automation Script /classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/LetsKodeIt/target/surefire-reports/old/Walmart Automation Script /classes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LetsKodeIt/target/surefire-reports/old/Walmart Automation Script /methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/LetsKodeIt/target/surefire-reports/old/Walmart Automation Script /methods-alphabetical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LetsKodeIt/target/surefire-reports/old/Walmart Automation Script /methods-not-run.html" beforeDir="false" afterPath="$PROJECT_DIR$/LetsKodeIt/target/surefire-reports/old/Walmart Automation Script /methods-not-run.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LetsKodeIt/target/surefire-reports/old/Walmart Automation Script /methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/LetsKodeIt/target/surefire-reports/old/Walmart Automation Script /methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LetsKodeIt/target/surefire-reports/old/Walmart Automation Script /reporter-output.html" beforeDir="false" afterPath="$PROJECT_DIR$/LetsKodeIt/target/surefire-reports/old/Walmart Automation Script /reporter-output.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LetsKodeIt/target/surefire-reports/old/Walmart Automation Script /testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/LetsKodeIt/target/surefire-reports/old/Walmart Automation Script /testng.xml.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LetsKodeIt/target/surefire-reports/old/Walmart Automation Script /toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/LetsKodeIt/target/surefire-reports/old/Walmart Automation Script /toc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LetsKodeIt/target/surefire-reports/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/LetsKodeIt/target/surefire-reports/old/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LetsKodeIt/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LetsKodeIt/target/surefire-reports/testng-results.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LetsKodeIt/target/test-classes/LetsKodeItTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LetsKodeIt/target/test-classes/LetsKodeItTestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetsKodeIt/src/test/resources/LetsKodeItTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LetsKodeIt/src/test/resources/LetsKodeItTestRunner.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -45,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LetsKodeIt/src/test/resources/LetsKodeItTestRunner.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+              <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -66,7 +48,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LetsKodeIt/src/main/java/selectionMenu/RadioButton.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
@@ -165,8 +147,8 @@
         <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
         <option value="$PROJECT_DIR$/LetsKodeIt/src/test/java/pageHomeTitleTest/PageTitleTest.java" />
         <option value="$PROJECT_DIR$/LetsKodeIt/src/test/java/selectionMenuTest/RadioButtonTest.java" />
-        <option value="$PROJECT_DIR$/LetsKodeIt/src/test/resources/LetsKodeItTestRunner.xml" />
         <option value="$PROJECT_DIR$/LetsKodeIt/src/main/java/selectionMenu/RadioButton.java" />
+        <option value="$PROJECT_DIR$/LetsKodeIt/src/test/resources/LetsKodeItTestRunner.xml" />
       </list>
     </option>
   </component>
@@ -256,6 +238,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="FrameWorkTest1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameWorkTest1" type="462c0819:PsiDirectoryNode" />
+              <item name="LetsKodeIt" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -265,7 +255,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590207520133" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590207801780" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -468,13 +458,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LetsKodeIt/src/test/resources/LetsKodeItTestRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LetsKodeIt/src/main/java/selectionMenu/RadioButton.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -484,6 +467,13 @@
             <element signature="e#300#301#0" expanded="true" />
             <element signature="e#334#335#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LetsKodeIt/src/test/resources/LetsKodeItTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
         </state>
       </provider>
     </entry>

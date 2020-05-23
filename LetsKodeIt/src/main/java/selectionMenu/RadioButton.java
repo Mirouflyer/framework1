@@ -22,7 +22,7 @@ public class RadioButton extends CommonAPI {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         System.out.println(radioButton.size());
         for(int i = 0 ; i<radioButton.size();i++){
-            if(radioButton.get(i).getText().equalsIgnoreCase("Honda")) {
+            if(radioButton.get(i).getAttribute("Honda").equalsIgnoreCase("Honda")) {
                 radioButton.get(i).click();
             }
         }
