@@ -21,7 +21,7 @@ public class RadioButton extends CommonAPI {
         ApplicationLog.epicLogger();
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         System.out.println(radioButton.size());
-        for(int i = 0 ; i<=radioButton.size();i++){
+        for(int i = 0 ; i<radioButton.size();i++){
             if(radioButton.get(i).getText().equalsIgnoreCase("Honda")) {
                 radioButton.get(i).click();
             }
